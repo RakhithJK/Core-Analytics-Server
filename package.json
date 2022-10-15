@@ -36,15 +36,15 @@
     "@sinonjs/fake-timers": "9.1.2",
     "c8": "7.12.0",
     "chai": "4.3.6",
-    "eslint": "8.23.0",
+    "eslint": "8.25.0",
     "husky": "8.0.1",
-    "mocha": "10.0.0"
+    "mocha": "10.1.0"
   },
   "dependencies": {
     "@aicore/linode-object-storage-lib": "1.0.10",
     "@aicore/wasabi-storage-lib": "^1.0.1",
     "clone-deep": "^4.0.1",
     "cors": "2.8.5",
-    "express": "4.18.1"
+    "express": "4.18.2"
   }
 }
